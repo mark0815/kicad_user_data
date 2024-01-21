@@ -49,7 +49,7 @@
     (property "Value" "173950378" (at 6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Wuerth:MagI3C_Power_Module_17395xx36" (at 0 0 0)
+    (property "Footprint" "Wuerth:MagI3C_Power_Module_173950x78" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.we-online.com/components/products/datasheet/173950378.pdf" (at -1.27 19.05 0)
