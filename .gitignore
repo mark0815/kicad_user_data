@@ -1,0 +1,11 @@
+# FreeCAD backup files
+*.FCBak
+
+# Plugins
+**/plugins/*
+
+# Resources
+**/resources/*
+
+# Symbol backup files
+**/symbols/*.bak
